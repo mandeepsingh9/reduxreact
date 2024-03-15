@@ -9,6 +9,7 @@ function App() {
         <Header/>
         <Counter />
         <Input/>
+        
         <Buttons/>
        
     </div>
